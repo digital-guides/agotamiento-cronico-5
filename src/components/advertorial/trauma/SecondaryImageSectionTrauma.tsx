@@ -8,7 +8,7 @@ const SecondaryImageSectionTrauma = () => {
           <img 
             src={secondaryImage} 
             alt="Mujer agotada mostrando fatiga crónica y sistema nervioso" 
-            className="w-full h-48 md:h-64 object-cover"
+            className="w-full h-auto object-contain"
           />
         </div>
       </div>
