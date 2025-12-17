@@ -13,7 +13,7 @@ const CTASectionTrauma = () => {
             Haz el Test y descubre qué tipo de desregulación está agotando tu energía.
           </p>
           
-          <a href="https://nervous-system-test.netlify.app/" className="cta-button mb-2 inline-flex items-center">
+          <a href="https://navegador-del-sistema-nervioso.lovable.app" className="cta-button mb-2 inline-flex items-center">
             <span>Hacer el Test Ahora</span>
             <ArrowRight className="w-5 h-5 ml-2" />
           </a>

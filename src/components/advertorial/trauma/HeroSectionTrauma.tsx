@@ -17,7 +17,7 @@ const HeroSectionTrauma = () => {
             <img 
               src={heroImage} 
               alt="Mujer agotada con café y despertando cansada" 
-              className="w-full h-64 md:h-80 object-cover"
+              className="w-full h-auto object-contain"
             />
           </div>
         </div>
